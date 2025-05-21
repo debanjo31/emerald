@@ -1,0 +1,20 @@
+HTML Categories into two
+
+Head 
+Body
+
+difference between opening and closing is that
+the open tag has a /
+
+shift + 1 - press enter !
+
+6 types of header
+h1
+h2
+h3
+h4
+h5
+h6
+
+
+img tag doesnt have closing tag
